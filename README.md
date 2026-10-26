@@ -1,6 +1,6 @@
 
 ---
-- 📫 How to reach me => just mail to freecalradianow@gmail.com ...
+- 📫 How to reach me => just write me a commit message
 ---
 ![maxresdefault](https://github.com/FreeCalradiaNow/FreeCalradiaNow/assets/111363541/2ba0e2f5-cade-4427-99e4-298c627fccfa)
 # Calradian Lord
